@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.savas{
+    background-color: red;
+    width: 100%;
+    height: 70px;
+
+}
+
+.Club{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 15px;
+}
+
+.voltran{
+    height: 900px;
+    width: 100%;
+    
+}
+
+.link{
+    margin-top: 10px;
+    border-bottom: none;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.link :hover{
+    color: red;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.ıts{
+    color: red;
+    font-weight: 800;
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+.lorem{
+    margin-top: 15px;
+}
+
+.lorem2{
+    margin-top: 5px;
+}
+
+.text{
+    padding: 0px 200px;
+    line-height: 30px;
+    margin-bottom: 50px;
+    
+}
+
+.img{
+    width: 400px;
+    height: 300px;
+}
+.img2{
+    width: 350px;
+    height: 300px;
+}
+
+.transformes{
+    display: flex;
+    justify-content: space-around;
+}
+
+.join{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.today{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.baki{
+    text-align: center;
+    margin-top: 50px;
+}
+
+button{
+    margin-left: 50px;
+    padding: 10px 20px;
+    border-radius: 40px 40px;
+    border: greenyellow solid;
+}
+
+.kırmızı{
+    background-color: red;
+    width: 100%;
+    height: 70px;
+}
+
+.beyaz{
+    color: white;
+    text-align: center;
+    position: relative;
+    padding: 20px;
+    margin-top: 20px;
+}
